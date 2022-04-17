@@ -1,0 +1,29 @@
+[{
+    "id": 1,
+    "title": "标题1",
+    "price": 2000,
+    "pic": "http://www.javascriptpeixun.cn/files/course/2019/10-13/205303f76f28949307.png",
+    "value":"1"
+},
+{
+    "id": 2,
+    "title": "标题2",
+    "price": 2000,
+    "pic": "http://www.javascriptpeixun.cn/files/course/2019/10-13/2058433f3952027076.png",
+    "value":"2"
+},
+{
+    "id": 3,
+    "title": "标题3",
+    "price": 2000,
+    "pic": "http://www.javascriptpeixun.cn/files/course/2019/10-13/210719744a26341671.png",
+    "value":"3"
+},
+{
+    "id": 4,
+    "title": "标题4",
+    "price": 2000,
+    "pic": "http://www.javascriptpeixun.cn/files/course/2019/10-13/212327f5a05b921128.png",
+    "value":"4"
+}
+]
